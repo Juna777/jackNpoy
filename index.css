@@ -1,0 +1,60 @@
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    margin: 20px 0;
+}
+
+#game {
+    padding: 20px;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    display: inline-block;
+}
+
+.option {
+    margin: 5px;
+    width: 100px;
+    height: 100px;
+}
+
+#result {
+    margin: 20px 0;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#history {
+    margin: 10px 0;
+    text-align: left;
+}
+
+#newGame {
+    margin-top: 10px;
+    padding: 10px 20px;
+    font-size: 14px;
+    background-color: aqua;
+    border: none;
+    border-radius: 5px;
+}
+#body{
+    background: linear-gradient(-135deg, #647387, #9ED2BE);
+}
+.Instruction{
+   margin-left: 20%;
+   margin-right: 20%;
+   margin-top: 10%;
+    text-align:justify;
+    color:rgb(67, 49, 120);
+}
+.Insbtn{
+  
+    margin-top: 10px;
+    padding: 20px 20px;
+    font-size: 16px;
+    background-color: aqua;
+    border: none;
+    border-radius: 5px;
+}
